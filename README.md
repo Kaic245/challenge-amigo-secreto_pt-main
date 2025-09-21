@@ -25,7 +25,9 @@ JavaScript – lógica para adicionar nomes, armazenar participantes e sortear
 
 **▶️ Como Executar**
 
-Baixe ou clone este repositório:
+Você acessar a página pelo link: https://kaic245.github.io/challenge-amigo-secreto_pt-main/
+
+Baixar ou clonar este repositório:
 
 git clone https://github.com/seu-usuario/amigo-secreto.git
 
