@@ -23,14 +23,6 @@ CSS3 – estilização responsiva e design agradável
 
 JavaScript – lógica para adicionar nomes, armazenar participantes e sortear
 
-**📂 Estrutura do Projeto**
-
-.
-├── index.html      # Página principal
-├── style.css       # Estilos da interface
-├── app.js          # Lógica do sorteio e manipulação do DOM
-└── assets/         # Imagens e ícones
-
 **▶️ Como Executar**
 
 Baixe ou clone este repositório:
